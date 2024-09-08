@@ -1,4 +1,3 @@
-This Power BI project involves the analysis and visualization of survey data to derive meaningful insights and facilitate data driven decision making. 
-The dataset of this project consists of 630 survey takers who gave answers on the basis of their respective fields.
-The primary objective of this project is to transform raw survey data into visually appealing and easy to understand dashboards that highlight key findings and trends.
-
+This project aims to analyze the responses from a survey conducted among data professionals to gain insights into their demographics, professional preferences, salary trends and overall job satisfaction.
+The data is presented visually using various charts and graphs, including bar charts, pie charts and line charts to enhance understanding and facilitate comparisons.
+Overall, this project provides valuable insights into the experiences and perspectives of data professionals, which can inform policy decisions and organizational practices.
